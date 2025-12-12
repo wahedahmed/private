@@ -1,9 +1,8 @@
 
-TITLE: 
-Twist - One Page Fully Responsive Free HTML5 template
+TITLE: - One Page Fully Responsive Free HTML5 template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED bywahed
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
